@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libtcod_nim-v0_98.flake = false;
+  inputs.src-libtcod_nim-v0_98.ref   = "refs/tags/v0.98";
   inputs.src-libtcod_nim-v0_98.owner = "Vladar4";
-  inputs.src-libtcod_nim-v0_98.ref   = "v0_98";
   inputs.src-libtcod_nim-v0_98.repo  = "libtcod_nim";
   inputs.src-libtcod_nim-v0_98.type  = "github";
   
