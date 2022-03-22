@@ -9,7 +9,7 @@
   
   inputs.src-libtcod_nim-v0_96.flake = false;
   inputs.src-libtcod_nim-v0_96.owner = "Vladar4";
-  inputs.src-libtcod_nim-v0_96.ref   = "refs/tags/v0.96";
+  inputs.src-libtcod_nim-v0_96.ref   = "v0_96";
   inputs.src-libtcod_nim-v0_96.repo  = "libtcod_nim";
   inputs.src-libtcod_nim-v0_96.type  = "github";
   

@@ -9,13 +9,14 @@
   
   inputs.src-libtcod_nim-v0_98_1.flake = false;
   inputs.src-libtcod_nim-v0_98_1.owner = "Vladar4";
-  inputs.src-libtcod_nim-v0_98_1.ref   = "refs/tags/v0.98.1";
+  inputs.src-libtcod_nim-v0_98_1.ref   = "v0_98_1";
   inputs.src-libtcod_nim-v0_98_1.repo  = "libtcod_nim";
   inputs.src-libtcod_nim-v0_98_1.type  = "github";
   
   inputs."sdl1".owner = "nim-nix-pkgs";
   inputs."sdl1".ref   = "master";
   inputs."sdl1".repo  = "sdl1";
+  inputs."sdl1".dir   = "";
   inputs."sdl1".type  = "github";
   inputs."sdl1".inputs.nixpkgs.follows = "nixpkgs";
   inputs."sdl1".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
