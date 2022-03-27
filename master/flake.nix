@@ -11,6 +11,7 @@
   inputs.src-libtcod-master.ref   = "refs/heads/master";
   inputs.src-libtcod-master.owner = "Vladar4";
   inputs.src-libtcod-master.repo  = "libtcod_nim";
+  inputs.src-libtcod-master.dir   = "";
   inputs.src-libtcod-master.type  = "github";
   
   inputs."sdl2_nim".owner = "nim-nix-pkgs";

@@ -11,6 +11,7 @@
   inputs.src-libtcod_nim-v0_97.ref   = "refs/tags/v0.97";
   inputs.src-libtcod_nim-v0_97.owner = "Vladar4";
   inputs.src-libtcod_nim-v0_97.repo  = "libtcod_nim";
+  inputs.src-libtcod_nim-v0_97.dir   = "";
   inputs.src-libtcod_nim-v0_97.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
