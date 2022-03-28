@@ -11,7 +11,6 @@
   inputs.src-libtcod_nim-v0_98.ref   = "refs/tags/v0.98";
   inputs.src-libtcod_nim-v0_98.owner = "Vladar4";
   inputs.src-libtcod_nim-v0_98.repo  = "libtcod_nim";
-  inputs.src-libtcod_nim-v0_98.dir   = "";
   inputs.src-libtcod_nim-v0_98.type  = "github";
   
   inputs."sdl1".owner = "nim-nix-pkgs";
